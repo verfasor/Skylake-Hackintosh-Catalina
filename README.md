@@ -92,4 +92,6 @@ Catalina with latest Clover update broke my LAN. I use a WiFi adapter for the ti
 All the best.
 
 ### Support
-![Donate](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png)
+
+Support if you’d like by referring my [resume](https://migftw.com/mp.pdf) or donating through [PayPal](https://www.paypal.com/paypalme/mighil), [Phonepe](https://res.cloudinary.com/mighil/image/upload/v1589876497/phonepe_jtv6mp.png), or [Alipay](https://migftw.com/wp-content/uploads/2019/02/mighil-weixin-pay.jpg).
+
